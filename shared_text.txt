@@ -1,0 +1,1 @@
+pkg install python3 pkg install gitgit clone https://github.com/Monir52962/Monir11.git-Toolcd DarkFly-Toolpython3 install.py
